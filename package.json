@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/arnoutc/weather-app#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "request": "^2.88.2",
     "yargs": "^17.1.1"
   }
